@@ -2,5 +2,5 @@
 def display_board
   spots = "  |  |  "
   line = "-----------"
-  puts #{spots} #{line} #{spots} #{line} #{spots}
+  puts #{spots} #
 end
